@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-http://elearning.ikonsultan.com/
+[web kita disini](http://elearning.ikonsultan.com/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
